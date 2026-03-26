@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "LAST DRIVE",
+  "base_artist": "中山美穂",
+  "createdAt": "2026-03-26T05:38:50.819719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Drive Down Main",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/01_Last_Drive_Down_Main_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LAST DRIVE",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/02_LAST_DRIVE_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Drive In",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/03_The_Last_Drive_In_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Drive Down Main (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/04_Last_Drive_Down_Main_(Lyric_Video)_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Last Drive",
+      "artist": "crafTUNER",
+      "has_synced": true,
+      "path": "select/05_One_Last_Drive_crafTUNER.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Last Drive (feat. IA)",
+      "artist": "crafTUNER",
+      "has_synced": true,
+      "path": "select/06_One_Last_Drive_(feat._IA)_crafTUNER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Drive",
+      "artist": "Tundran",
+      "has_synced": true,
+      "path": "select/07_Last_Drive_Tundran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Last Drive-In",
+      "artist": "Chris Ledoux",
+      "has_synced": false,
+      "path": "select/08_The_Last_Drive-In_Chris_Ledoux.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Morgan Wallen - Last Drive Down Main (Lyric Video)",
+      "artist": "Morgan Wallen",
+      "has_synced": false,
+      "path": "select/09_Morgan_Wallen_-_Last_Drive_Down_Main_(Lyric_Video)_Morgan_Wallen.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Last Drive-In",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/10_The_Last_Drive-In_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Drive-In",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/11_Last_Drive-In_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Drive",
+      "artist": "Miho Nakayama",
+      "has_synced": false,
+      "path": "select/12_Last_Drive_Miho_Nakayama.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "28 Last Drive Down Main",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/13_28_Last_Drive_Down_Main_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST DRIVE",
+      "artist": "中山 美穂",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_DRIVE_中山_美穂.txt"
+    }
+  ]
+}
